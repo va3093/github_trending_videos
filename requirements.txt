@@ -1,0 +1,8 @@
+git+git://github.com/LevPasha/Instagram-API-python@master#InstagramAPI
+beautifulsoup4==4.6.3
+requests==2.11.1
+lxml==4.2.5
+SQLAlchemy==1.2.10
+moviepy==0.2.3.2
+ffmpy==0.2.2
+Pillow==5.2.0
